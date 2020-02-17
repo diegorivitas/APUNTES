@@ -1,4 +1,5 @@
 # APUNTES
+
 SQL
 
 El SQL es un lenguaje de consulta para administrar información en sistemas de bases de datos.
